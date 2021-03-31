@@ -1,0 +1,13 @@
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.exe
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.deps.json
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.runtimeconfig.json
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.runtimeconfig.dev.json
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.dll
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.pdb
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.csprojAssemblyReference.cache
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.AssemblyInfoInputs.cache
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.AssemblyInfo.cs
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.csproj.CoreCompileInputs.cache
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.dll
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.pdb
+C:\Users\knedbal\dev\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.genruntimeconfig.cache
